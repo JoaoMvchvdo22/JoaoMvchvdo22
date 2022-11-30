@@ -5,7 +5,7 @@
 • 🔭 Hoje eu atuo como estágiário em Desenvolvimento de Software <br>
 • 🌱 Estudando Angular, Typescript e SCSS <br>
 • 🎓 Uninove - Cursando Sistemas de Informação <br>
-• 👨 Tenho 22 anos 
+• 👨 Tenho 23 anos 
 
 <div align="center">
   <a href="https://github.com/JoaoMvchvdo22">
