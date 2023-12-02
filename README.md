@@ -2,10 +2,10 @@
 
 ##
 
-• 🔭 Hoje eu atuo como estágiário em Desenvolvimento de Software <br>
-• 🌱 Estudando Angular, Typescript e SCSS <br>
-• 🎓 Uninove - Cursando Sistemas de Informação <br>
-• 👨 Tenho 23 anos 
+• 🔭 Hoje eu atuo como Desenvolvedor junior <br>
+• 🌱 Estudando Angular, Typescript, Node.js <br>
+• 🎓 Cursando Sistemas de Informação <br>
+• 👨 Tenho 24 anos 
 
 <div align="center">
   <a href="https://github.com/JoaoMvchvdo22">
