@@ -2,10 +2,10 @@
 
 ##
 
-• 🔭 Hoje eu atuo como Desenvolvedor junior <br>
-• 🌱 Estudando Angular, Typescript, Node.js <br>
+• 🔭 Desenvolvedor <br>
+• 🌱 Angular, Typescript, Node.js, Nest.js <br>
 • 🎓 Cursando Sistemas de Informação <br>
-• 👨 Tenho 24 anos 
+• 👨 24 anos 
 
 <div align="center">
   <a href="https://github.com/JoaoMvchvdo22">
