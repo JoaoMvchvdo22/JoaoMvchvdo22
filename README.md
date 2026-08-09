@@ -3,9 +3,7 @@
 ##
 
 • 🔭 Desenvolvedor <br>
-• 🌱 Angular, Typescript, Node.js, Nest.js <br>
-• 🎓 Cursando Sistemas de Informação <br>
-• 👨 24 anos 
+• 🌱 Angular, Typescript, Node.js, Nest.js, Java <br>
 
 <div align="center">
   <a href="https://github.com/JoaoMvchvdo22">
