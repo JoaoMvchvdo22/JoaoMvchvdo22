@@ -2,19 +2,17 @@
 
 ### Full-Stack Developer
 
-I build modern web applications with a strong focus on front-end development, architecture and user experience.
+I build modern web applications with a strong focus on **front-end development, architecture and user experience**.
 
-Currently working primarily with **Angular, TypeScript, Java and Node.js**, while continuously exploring modern web development practices and technologies.
+Currently working primarily with **Angular, TypeScript, Java and Node.js**.
 
 ---
 
-## About me
+## About
 
-- Full-Stack Developer with a strong focus on Angular and front-end development
-- Experience building and maintaining production web applications
-- Working with Angular, TypeScript, Java and Node.js
-- Interested in software architecture, performance and modern web development
-- Currently exploring modern Angular features and cloud infrastructure with AWS
+Full-Stack Developer focused on building and maintaining production web applications, with Angular as my main front-end technology.
+
+Currently expanding my knowledge of modern Angular architecture, cloud infrastructure and software engineering practices.
 
 ## Tech Stack
 
@@ -36,11 +34,9 @@ Currently working primarily with **Angular, TypeScript, Java and Node.js**, whil
 
 ### Portfolio
 
-Personal developer portfolio built with modern Angular.
+Personal developer portfolio built with modern Angular and used as a practical environment for exploring modern Angular features and architecture patterns.
 
-The project is also being used as a practical environment to explore modern Angular features, architecture patterns and, eventually, cloud deployment with AWS.
-
-**Stack:** Angular · TypeScript · SCSS · Signals · Zoneless
+**Stack:** `Angular` · `TypeScript` · `SCSS` · `Signals` · `Zoneless`
 
 [View repository](https://github.com/JoaoMvchvdo22/portfolio)
 
