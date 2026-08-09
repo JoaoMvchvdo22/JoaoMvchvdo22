@@ -18,15 +18,23 @@ Currently expanding my knowledge of modern Angular architecture, cloud infrastru
 
 **Front-end**
 
-`Angular` · `TypeScript` · `HTML` · `SCSS`
+`Angular` · `TypeScript` · `JavaScript` · `HTML` · `SCSS`
 
 **Back-end**
 
-`Java` · `Node.js`
+`Java` · `Node.js` · `REST APIs`
 
-**Tools & Technologies**
+**Mobile & Hybrid**
 
-`Git` · `GitHub` · `REST APIs` · `Cordova`
+`Apache Cordova` · `Android` · `iOS`
+
+**Tools & DevOps**
+
+`Git` · `GitHub` · `Jenkins` · `SonarQube`
+
+**Currently Exploring**
+
+`AWS` · `CI/CD` · `Cloud Infrastructure`
 
 ---
 
